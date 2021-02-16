@@ -1,8 +1,6 @@
 # home_practice
-practicing at home
-Testing as of 2.1.21
+This is my person repo for practicing Python at home & doing challenges from PracticePython.org.
 
-Hello World
-*helllloooo world!*
-**hello ya'll**
-Sixers are playing great. They are learning how to win w/o **Embiid**   
+None of the files in here relate back to JTC.
+
+
